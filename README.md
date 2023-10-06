@@ -1,1 +1,1 @@
-# GoogleTrends-RelatedQueries
+# GoogleTrends
